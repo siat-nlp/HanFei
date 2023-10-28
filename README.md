@@ -119,12 +119,14 @@ Self-instruct: https://github.com/yizhongw/self-instruct
 
 ## 引用
 
->@misc{Lawyer-LLama,
->  author={Wanwei He and Jiabao Wen and Lei Zhang and Hao Cheng and Bowen Qin and Yunshui Li and Feng Jiang and Junying Chen and Benyou Wang and Min Yang},
->  title={HanFei-1.0},
->  year={2023},
->  publisher={GitHub},
->  journal={GitHub repository},
->  howpublished={\url{https://github.com/siat-nlp/HanFei}},
->}
+```
+@misc{HanFei,
+  author={Wanwei He and Jiabao Wen and Lei Zhang and Hao Cheng and Bowen Qin and Yunshui Li and Feng Jiang and Junying Chen and Benyou Wang and Min Yang},
+  title={HanFei-1.0},
+  year={2023},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/siat-nlp/HanFei}},
+}
+```
 
