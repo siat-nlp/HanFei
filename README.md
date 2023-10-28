@@ -119,6 +119,8 @@ Self-instruct: https://github.com/yizhongw/self-instruct
 
 ## 引用
 
+如果您使用了本项目的内容，或者认为本项目对您的研究有帮助，请引用本项目。
+
 ```
 @misc{HanFei,
   author={Wanwei He and Jiabao Wen and Lei Zhang and Hao Cheng and Bowen Qin and Yunshui Li and Feng Jiang and Junying Chen and Benyou Wang and Min Yang},
